@@ -1,0 +1,1 @@
+echo "olá" >> teste.txt
